@@ -14,7 +14,7 @@ body{
     background-color: #F4F4F4;
     justify-content: center;
     position: fixed;
-    top: 0;
+    bottom: 500;
     width: 100%;
   }
   
